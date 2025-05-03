@@ -1,7 +1,7 @@
 
 # 🚀 Projeto API RESTful - CRUD com Spring Boot
 
-Este projeto consiste na criação de uma API RESTful completa utilizando o **Spring Boot**, implementando operações de **CRUD (Create, Read, Update, Delete)** para gerenciamento de usuários. Foi desenvolvido como parte de uma aula prática da disciplina de **Programação Web** e explora diversos conceitos modernos aplicados no desenvolvimento de APIs com Java.
+Este projeto consiste na criação de uma API RESTful completa utilizando o **Spring Boot**, implementando operações de **CRUD (Create, Read, Update, Delete)** para gerenciamento de usuários. Explora diversos conceitos modernos aplicados no desenvolvimento de APIs com Java.
 
 ---
 
@@ -96,7 +96,7 @@ A API oferece os seguintes endpoints para gerenciamento de usuários:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/gabszin/springboot-user-crud.git
    ```
 
 2. Abra o projeto no **Spring Tool Suite** ou **IDE de sua preferência**.
